@@ -8,7 +8,8 @@ hand_detector = mp.solutions.hands.Hands(min_detection_confidence=0.7, min_track
 drawing_utils = mp.solutions.drawing_utils
 
 # Capture video and get screen dimensions
-# jdd
+# j
+#kk
 cap = cv2.VideoCapture(0)
 screen_width, screen_height = pyautogui.size()
 
